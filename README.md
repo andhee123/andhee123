@@ -1,10 +1,15 @@
-### Hi there 👋 Welcome in My Account Github
-  - 🌱 I’m currently learning
-    HTML, CSS, JS
-    Framework : bootstrap
-  - Event Participations
-    IT Career Preparation by Alterra Academy
-    Bootcamp Web Development Kotakode X Progate
+### Hai Sobb 👋 Selamat Datang di akun Github Saya 
+#### Saya Sedang Belajar:
+
+- HTML, CSS, JS
+
+ - Framework : bootstrap
+
+#### Partisipasi event
+
+- IT Career Preparation by Alterra Academy
+
+- Bootcamp Web Development Kotakode X Progate
   
 
 
